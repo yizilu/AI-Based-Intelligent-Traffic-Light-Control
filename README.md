@@ -1,1 +1,3 @@
-# AI-For-Traffic
+# AI-Based-Intelligent-Traffic-Light-Control
+
+This project aims to develop an intelligent traffic light control system leveraging the principles of multiple control algorithms to optimize traffic flow at intersections. By understanding the complex dynamics of traffic flows, the system will adjust traffic light patterns in real-time to minimize waiting times, reduce congestion, and improve overall traffic efficiency. The core of the system is built on an AI model which learns and adopts the best action (traffic light change) based on the current state of traffic. This approach not only promises to enhance the fluidity of urban traffic but also contributes to reducing the environmental impact by decreasing idle times and emissions. 
