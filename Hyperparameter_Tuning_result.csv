@@ -1,0 +1,2 @@
+,hidden_layers,units,buffer_size,batch_size,learning_rate,gamma
+0,2,256,10000,128,0.001,0.95

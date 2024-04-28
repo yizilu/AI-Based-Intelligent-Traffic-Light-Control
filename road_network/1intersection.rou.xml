@@ -1,0 +1,24 @@
+<routes>
+            <vType id="CarA" length="5" maxSpeed="22" carFollowModel="IDM" actionStepLength="1" tau="1.4" speedDev="0.0" accel="1" decel="2" speedFactor="1.0" minGap="2" delta="4" stepping="1.5"/>
+            
+    <trip id="0" type="CarA" depart="7" fromJunction="W" toJunction="N" />
+    <trip id="1" type="CarA" depart="12" fromJunction="E" toJunction="W" />
+    <trip id="2" type="CarA" depart="21" fromJunction="N" toJunction="W" />
+    <trip id="3" type="CarA" depart="21" fromJunction="W" toJunction="E" />
+    <trip id="4" type="CarA" depart="22" fromJunction="S" toJunction="W" />
+    <trip id="5" type="CarA" depart="23" fromJunction="E" toJunction="W" />
+    <trip id="6" type="CarA" depart="24" fromJunction="W" toJunction="S" />
+    <trip id="7" type="CarA" depart="29" fromJunction="W" toJunction="N" />
+    <trip id="8" type="CarA" depart="30" fromJunction="S" toJunction="E" />
+    <trip id="9" type="CarA" depart="34" fromJunction="W" toJunction="S" />
+    <trip id="10" type="CarA" depart="38" fromJunction="N" toJunction="S" />
+    <trip id="11" type="CarA" depart="43" fromJunction="S" toJunction="W" />
+    <trip id="12" type="CarA" depart="48" fromJunction="E" toJunction="S" />
+    <trip id="13" type="CarA" depart="48" fromJunction="E" toJunction="N" />
+    <trip id="14" type="CarA" depart="55" fromJunction="W" toJunction="N" />
+    <trip id="15" type="CarA" depart="57" fromJunction="S" toJunction="N" />
+    <trip id="16" type="CarA" depart="67" fromJunction="N" toJunction="W" />
+    <trip id="17" type="CarA" depart="71" fromJunction="S" toJunction="W" />
+    <trip id="18" type="CarA" depart="87" fromJunction="W" toJunction="N" />
+    <trip id="19" type="CarA" depart="94" fromJunction="N" toJunction="W" />
+</routes>
