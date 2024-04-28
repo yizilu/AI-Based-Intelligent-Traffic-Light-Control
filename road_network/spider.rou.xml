@@ -1,0 +1,54 @@
+<routes>
+            <vType id="CarA" length="5" maxSpeed="22" carFollowModel="IDM" actionStepLength="1" tau="1.4" speedDev="0.0" accel="1" decel="2" speedFactor="1.0" minGap="2" delta="4" stepping="1.5"/>
+            
+    <trip id="0" type="CarA" depart="252" fromJunction="E5" toJunction="E4" />
+    <trip id="1" type="CarA" depart="262" fromJunction="E4" toJunction="E5" />
+    <trip id="2" type="CarA" depart="316" fromJunction="E1" toJunction="E5" />
+    <trip id="3" type="CarA" depart="321" fromJunction="E4" toJunction="E1" />
+    <trip id="4" type="CarA" depart="325" fromJunction="E4" toJunction="E5" />
+    <trip id="5" type="CarA" depart="343" fromJunction="E1" toJunction="E4" />
+    <trip id="6" type="CarA" depart="345" fromJunction="E4" toJunction="E5" />
+    <trip id="7" type="CarA" depart="359" fromJunction="E1" toJunction="E5" />
+    <trip id="8" type="CarA" depart="361" fromJunction="E5" toJunction="E4" />
+    <trip id="9" type="CarA" depart="367" fromJunction="E1" toJunction="E4" />
+    <trip id="10" type="CarA" depart="368" fromJunction="E1" toJunction="E5" />
+    <trip id="11" type="CarA" depart="370" fromJunction="E5" toJunction="E4" />
+    <trip id="12" type="CarA" depart="397" fromJunction="E1" toJunction="E4" />
+    <trip id="13" type="CarA" depart="413" fromJunction="E5" toJunction="E4" />
+    <trip id="14" type="CarA" depart="415" fromJunction="E5" toJunction="E4" />
+    <trip id="15" type="CarA" depart="455" fromJunction="E5" toJunction="E4" />
+    <trip id="16" type="CarA" depart="458" fromJunction="E5" toJunction="E4" />
+    <trip id="17" type="CarA" depart="480" fromJunction="E1" toJunction="E5" />
+    <trip id="18" type="CarA" depart="489" fromJunction="E5" toJunction="E1" />
+    <trip id="19" type="CarA" depart="520" fromJunction="E1" toJunction="E4" />
+    <trip id="20" type="CarA" depart="537" fromJunction="E5" toJunction="E4" />
+    <trip id="21" type="CarA" depart="585" fromJunction="E5" toJunction="E1" />
+    <trip id="22" type="CarA" depart="608" fromJunction="E4" toJunction="E5" />
+    <trip id="23" type="CarA" depart="616" fromJunction="E5" toJunction="E1" />
+    <trip id="24" type="CarA" depart="629" fromJunction="E5" toJunction="E4" />
+    <trip id="25" type="CarA" depart="632" fromJunction="E1" toJunction="E4" />
+    <trip id="26" type="CarA" depart="646" fromJunction="E5" toJunction="E1" />
+    <trip id="27" type="CarA" depart="663" fromJunction="E1" toJunction="E5" />
+    <trip id="28" type="CarA" depart="676" fromJunction="E1" toJunction="E5" />
+    <trip id="29" type="CarA" depart="688" fromJunction="E5" toJunction="E4" />
+    <trip id="30" type="CarA" depart="708" fromJunction="E1" toJunction="E5" />
+    <trip id="31" type="CarA" depart="713" fromJunction="E1" toJunction="E4" />
+    <trip id="32" type="CarA" depart="718" fromJunction="E5" toJunction="E4" />
+    <trip id="33" type="CarA" depart="721" fromJunction="E5" toJunction="E4" />
+    <trip id="34" type="CarA" depart="725" fromJunction="E4" toJunction="E5" />
+    <trip id="35" type="CarA" depart="732" fromJunction="E5" toJunction="E1" />
+    <trip id="36" type="CarA" depart="734" fromJunction="E1" toJunction="E4" />
+    <trip id="37" type="CarA" depart="754" fromJunction="E4" toJunction="E1" />
+    <trip id="38" type="CarA" depart="763" fromJunction="E4" toJunction="E5" />
+    <trip id="39" type="CarA" depart="763" fromJunction="E4" toJunction="E5" />
+    <trip id="40" type="CarA" depart="782" fromJunction="E5" toJunction="E1" />
+    <trip id="41" type="CarA" depart="804" fromJunction="E4" toJunction="E5" />
+    <trip id="42" type="CarA" depart="815" fromJunction="E1" toJunction="E4" />
+    <trip id="43" type="CarA" depart="822" fromJunction="E4" toJunction="E1" />
+    <trip id="44" type="CarA" depart="850" fromJunction="E1" toJunction="E5" />
+    <trip id="45" type="CarA" depart="853" fromJunction="E1" toJunction="E4" />
+    <trip id="46" type="CarA" depart="872" fromJunction="E5" toJunction="E4" />
+    <trip id="47" type="CarA" depart="878" fromJunction="E5" toJunction="E4" />
+    <trip id="48" type="CarA" depart="913" fromJunction="E4" toJunction="E5" />
+    <trip id="49" type="CarA" depart="939" fromJunction="E5" toJunction="E4" />
+</routes>
